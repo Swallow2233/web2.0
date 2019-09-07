@@ -3,16 +3,61 @@ h1
     color:rgb(164,164,0);
     background-color:rgb(240,240,240);
     font-family: Century Gothic,Verdana,Verdana,sans-serif;
-    text-align:center;
+    text-align: center;
     font-size: 22pt;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+h2
+{
+    color:rgb(164,164,0);
+    background-color:rgb(240,240,240);
+    font-family: Century Gothic,Verdana,Verdana,sans-serif;
+    text-align: left;
+    font-size: 18pt;
+    font-weight: normal;
+    text-decoration: underline;
 }
 
 body
 {
-    background-color:white;
+    background-image: url(G:/web2.0/silverware.jpg);
+    background-attachment: fixed;
+    background-repeat: repeat;
+    background-color: white;
+    /* Extra Features:Background */
 }
 
 p
 {
-    
+    color:rgb(64,64,64);
+    font-size: 11pt;
+    font-family: Georgia,Garamond,serif;
+}
+
+ul
+{
+    color:rgb(64,64,64);
+    font-size: 11pt;
+    font-family: Georgia,Garamond,serif;
+}
+
+ol
+{
+    color:rgb(64,64,64);
+    font-size: 11pt;
+    font-family: Georgia,Garamond,serif;
+}
+
+blockquote
+{
+    background-color:rgb(255,255,200);
+    font-style:oblique;
+}
+
+a
+{
+    color:rgb(164,164,0);
+    font-family: Georgia,Garamond,serif;
 }
